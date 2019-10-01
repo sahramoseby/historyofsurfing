@@ -1,0 +1,26 @@
+h1, h2 {
+  text-align: center;
+  font-family: "mansalva";
+
+}
+
+body {
+  background-image: url(surf.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: "raleway";
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 200px;
+}
